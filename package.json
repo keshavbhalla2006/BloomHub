@@ -1,0 +1,15 @@
+{
+  "name": "bloomhub",
+  "version": "1.0.0",
+  "description": "BloomHub is a full-stack web platform for plant nurseries. Features include a plant store, daily tips, expert plant guides, community Q&amp;A, admin dashboard, and responsive design. Built using Node.js, Express, MongoDB, EJS, and modern web practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
